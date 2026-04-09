@@ -53,8 +53,6 @@ Date of finished:
 
 ### Шаг 4
 #### Сгенерированный код
-Код бота хранится в репозитории https://github.com/mukhamadieva-elina/itmoftmi_mukhamadieva_e_v_bot
-
 Используемые библиотеки:
 - python-telegram-bot (v21.6) с [job-queue]: асинхронный движок бота с планировщиком для уведомлений в 10:00
 - python-dotenv: безопасное хранение токена и ID админов в скрытом файле .env
